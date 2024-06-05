@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "C:/Users/dchav/Desktop/LA PUTA MIERDA/CLON FILMIN_API _cgpt/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "C:/Users/dchav/Desktop/LA PUTA MIERDA/CLON FILMIN_API _cgpt/node_modules/nuxt/dist/app/entry.js"
+  }
+}

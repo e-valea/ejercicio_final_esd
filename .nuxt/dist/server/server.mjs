@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/dchav/Desktop/LA%20PUTA%20MIERDA/CLON%20FILMIN_API%20_cgpt/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
